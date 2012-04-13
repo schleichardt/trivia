@@ -1,4 +1,16 @@
-scala/.idea/
-scala/scala.iml
-scala/out/
+.*
+!/.gitignore
+
+build
+tmp
+
+#IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+
+*~
+*.bak
+*#
+
 *.class
