@@ -1,0 +1,14 @@
+.*
+!/.gitignore
+
+build
+tmp
+
+#IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+
+*~
+*.bak
+*# 
